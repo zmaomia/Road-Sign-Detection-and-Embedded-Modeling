@@ -33,7 +33,12 @@ Please refer to the overall framework as bellow.
 提取码：rsdd 
 
 
-### 3. Paper 
+### 3. Demo for Triangulation
+
+Triangulation code link: https://github.com/zmaomia/Triangulation-Projection
+
+
+### 4. Paper 
 
 Link:
 
