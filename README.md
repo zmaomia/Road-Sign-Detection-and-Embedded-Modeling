@@ -26,7 +26,9 @@ Please refer to the overall framework as bellow.
 
 ### 2. Dataset Download
 
-(1) Via 百度网盘
+(1) Via Google Drive: https://drive.google.com/file/d/1I8lsXHr-jKFAvRBv1Br4KZVR3RGHcW6_/view?usp=drive_link
+
+(2) Via 百度网盘
 
 链接：https://pan.baidu.com/s/1M7uy1p05qQQ6MXh3y_QCSA
 
